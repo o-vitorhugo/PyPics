@@ -22,6 +22,8 @@ pip install pypics
 
 ## Como Usar (Quickstart)
 
+No terminal, use `python` para rodar seus scripts ou abrir o interpretador interativo:
+
 ```python
 from pypics.funcoes import (
     preto_e_branco,
